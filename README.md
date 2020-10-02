@@ -1,4 +1,4 @@
-# Bonjour et bienvenue ! 
+# Bonjour et bienvenue ! :wave:
 
 Vous voici chez moi, dans mon laboratoire rempli de mes expérimentations et expériences. Malheureusement vous ne pourrez pas voir ma plus grande réussite car il s'agit d'un projet top secret :no_entry_sign:.
 
@@ -10,7 +10,7 @@ Je suis une développeuse passionnée, déterminée et investie. Je travaille su
 
 J'ai eu l'occasion de faire mes armes dans une start-up bordelaise dans laquelle j'ai pu participer à la naissance d'un très beau projet autant d'un point de vue de l'élaboration que de sa construction.
 
-## :memo: Mon ambition 
+## :rocket: Mon ambition 
 
 Je suis à l'écoute du marché afin de pouvoir mettre en oeuvre mes compétences acquises, m'investir sur un nouveau projet, m'intégrer à une équipe dynamique, apporter un regard neuf et continuer d'apprendre. J'aime échanger, transmettre et confronter les points de vue afin d'évoluer.
 
