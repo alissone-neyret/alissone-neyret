@@ -4,7 +4,7 @@ Vous voici chez moi, dans mon laboratoire rempli de mes expérimentations et exp
 
 📫 Comment me contacter : [LinkedIn](https://www.linkedin.com/in/alissone-neyret/)
 
-## :memo: Qui suis-je ?
+## :zebra: Qui suis-je ?
 
 Je suis une développeuse passionnée, déterminée et investie. Je travaille sur des projets qui me parlent, dans des équipes bienveillantes où exigeance rime avec bonne ambiance. 
 
