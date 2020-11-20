@@ -20,7 +20,7 @@ Je suis également membre actif dans une belle et grande communauté qui s'appel
 * ReactJs <img height="20" src="https://www.flaticon.com/svg/static/icons/svg/919/919851.svg" alt="React">
 * NodeJS (express) <img height="20" src="https://media.bitdegree.org/storage/media/images/2018/12/node-js-interview-questions-logo-2-266x300.png" alt="Node"> 
 * Typescript <img height="20" src="https://www.flaticon.com/svg/static/icons/svg/919/919832.svg" alt="Typescript"> 
-* Jest <img height="30" src="" alt="Jest"> 
+* Jest
 * Cypress <img height="20" src="https://www.cypress.io/static/33498b5f95008093f5f94467c61d20ab/59c46/cypress-logo.webp" alt="Cypress"> 
 * MySql <img height="30" src="https://www.flaticon.com/svg/static/icons/svg/919/919836.svg" alt="Node"> 
 
