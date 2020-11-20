@@ -10,6 +10,8 @@ Je suis une développeuse passionnée, déterminée et investie. Je travaille su
 
 J'ai eu l'occasion de faire mes armes dans une start-up bordelaise dans laquelle j'ai pu participer à la naissance d'un très beau projet autant d'un point de vue de l'élaboration que de sa construction.
 
+Je suis également membre active dans une belle et grande communauté qui s'appelle "La fabrik du numerique". Il s'agit d'une communauté regroupant les différents acteurs du digital (développeurs, designer, testeurs, recruteurs etc.). Plus d'infos ici : [La fabrik du numérique](https://www.linkedin.com/company/la-fabrik-du-num%C3%A9rique/about/)
+
 ## Mes compétences
 
 ### Techniques
