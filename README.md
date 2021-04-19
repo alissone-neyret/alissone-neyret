@@ -10,14 +10,12 @@ Je suis une développeuse passionnée, déterminée et investie. Je travaille su
 
 J'ai eu l'occasion de faire mes armes dans une start-up bordelaise dans laquelle j'ai pu participer à la naissance d'un très beau projet autant d'un point de vue de l'élaboration que de sa construction.
 
-Je suis également membre actif dans une belle et grande communauté qui s'appelle "La fabrik du numerique". Il s'agit d'une communauté regroupant les différents acteurs du digital (développeurs, designer, testeurs, recruteurs etc.). Plus d'infos ici : [La fabrik du numérique](https://www.linkedin.com/company/la-fabrik-du-num%C3%A9rique/about/)
-
 ## Mes compétences
 
 ### Techniques
 
 🔭 Les technos avec lesquelles je travaille: 
-* ReactJs <img height="20" src="https://www.flaticon.com/svg/static/icons/svg/919/919851.svg" alt="React">
+* React <img height="20" src="https://www.flaticon.com/svg/static/icons/svg/919/919851.svg" alt="React">
 * NodeJS (express) <img height="20" src="https://media.bitdegree.org/storage/media/images/2018/12/node-js-interview-questions-logo-2-266x300.png" alt="Node"> 
 * Typescript <img height="20" src="https://www.flaticon.com/svg/static/icons/svg/919/919832.svg" alt="Typescript"> 
 * Jest
@@ -37,7 +35,7 @@ Les technos/sujets qui m'intéressent :
 
 ### Savoir-être
 
-Organisation, aisance relationnelle, ponctualité, grand esprit d'analyse, perspicacité. 
+Bienveillance, organisation, aisance relationnelle, ponctualité, esprit d'analyse, perspicacité. 
 
 ## Un peu de stats 
 
