@@ -10,6 +10,8 @@ Je suis une développeuse passionnée, déterminée et investie. Je travaille su
 
 J'ai eu l'occasion de faire mes armes dans une start-up bordelaise (Hellia) dans laquelle j'ai pu participer à la naissance d'un très beau projet autant d'un point de vue de l'élaboration que de sa construction.
 
+Après différentes expériences, j'ai posé mes bagages chez Swile, belle licorne française dans laquelle je continues de grandir et de partager mes compétences.
+
 ## Mes compétences
 
 ### Techniques
